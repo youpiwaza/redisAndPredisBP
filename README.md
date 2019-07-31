@@ -1,8 +1,6 @@
 # redisAndPredisBP
-Package maison pour faire du redis &amp; php directement, sur MAC :'(
-
-
 _Package maison pour faire du redis & php directement, sur MAC :'(_
+
 ## Lancer tout le bousin
 1. Récupérer dans le dossier de son serveur local (htdocs, etc.)
 2. Passer un petit `php composer.phar install`, ça fait jamais de mal pour l'autoload.
